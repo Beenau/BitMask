@@ -1,4 +1,4 @@
-# C_Code_BitMask
+# BitMask_C
 A simple way of masking desired number of bits at a specified location while preserving all other bits
 
 # Parameters
