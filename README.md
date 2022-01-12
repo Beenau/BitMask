@@ -1,5 +1,6 @@
-# BitMask_C
-A simple way of masking desired number of bits at a specified location while preserving all other bits
+# BitMask
+Coded in C.
+A simple way of masking desired number of bits at a specified location while preserving all other bits.
 
 # Parameters
 regData: Determins the starting data, in this example reg data is initialized with a decimal number and displayed at the output as a 32-bit hex number.
